@@ -52,6 +52,8 @@ alter table Usuario_Role add constraint FK_4w45e3buitnd4f3ok8jdlrqkh foreign key
 
 ## Nova Funcionalidades
 
-Possibilidade de gerar relatórios
-Criar usuarios a partir da página
+<p>
+Possibilidade de gerar relatórios <br/>
+Criar usuarios a partir da página<br/>
 Mudar status dos usuarios
+</p>
